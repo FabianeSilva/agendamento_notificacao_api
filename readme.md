@@ -39,7 +39,7 @@ Entre no diretório do projeto
 #### Retorna uma notificação por id
 
 ```http
-  GET /notificação/${id}
+  GET /agendamento/${id}
 ```
 
 | Parâmetro   | Tipo       | Descrição                                   |
@@ -49,7 +49,7 @@ Entre no diretório do projeto
 #### Cancela uma notificação por id
 
 ```http
-  DELETE /notificação/${id}
+  DELETE /agendamento/${id}
 ```
 
 | Parâmetro   | Tipo       | Descrição                                   |
